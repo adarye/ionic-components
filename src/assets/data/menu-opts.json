@@ -1,0 +1,117 @@
+[{
+        "icon": "american-football-outline",
+        "name": "Action sheet",
+        "redirecTo": "/action-sheet"
+    },
+    {
+        "icon": "logo-apple-appstore",
+        "name": "Alert",
+        "redirecTo": "/alert"
+    },
+    {
+        "icon": "accessibility-outline",
+        "name": "avatar",
+        "redirecTo": "/avatar"
+    },
+    {
+        "icon": "game-controller-outline",
+        "name": "Buttons",
+        "redirecTo": "/buttons"
+    },
+    {
+        "icon": "card-outline",
+        "name": "Cards",
+        "redirecTo": "/cards"
+    },
+    {
+        "icon": "checkmark-circle-outline",
+        "name": "Checks",
+        "redirecTo": "/checks"
+    },
+    {
+        "icon": "calendar-outline",
+        "name": "Datetimes",
+        "redirecTo": "/date-times"
+    },
+    {
+        "icon": "car-outline",
+        "name": "Fabs",
+        "redirecTo": "/fabs"
+    },
+    {
+        "icon": "grid-outline",
+        "name": "Grids",
+        "redirecTo": "/grids"
+    },
+    {
+        "icon": "infinite-outline",
+        "name": "Infinite",
+        "redirecTo": "/infinite"
+    },
+    {
+        "icon": "hammer-outline",
+        "name": "Input Forms",
+        "redirecTo": "/inputs"
+    },
+    {
+        "icon": "list-outline",
+        "name": "Lists",
+        "redirecTo": "/lists"
+    },
+    {
+        "icon": "reorder-three-outline",
+        "name": "List - reorder",
+        " redirecTo": "/list-reorder"
+    },
+    {
+        "icon": "refresh-circle-outline",
+        "name": "Loading",
+        "redirecTo": "/loading"
+    },
+    {
+        "icon": "tablet-portrait-outline",
+        "name": "Modal",
+        "redirecTo": "/modal"
+    },
+    {
+        "icon": "phone-portrait-outline",
+        "name": "Popover",
+        "redirecTo": "/popover"
+    },
+    {
+        "icon": "code-working-outline",
+        "name": "ProgressBar",
+        "redirecTo": "/progress"
+    },
+    {
+        "icon": "arrow-down-circle-outline",
+        "name": "Refresher",
+        "redirecTo": "/refresher"
+    },
+    {
+        "icon": "search-outline",
+        "name": "SearchBar",
+        "redirecTo": "/searchbar"
+    },
+    {
+        "icon": "copy-outline",
+        "name": "Segment",
+        "redirecTo": "/segment"
+    },
+    {
+        "icon": "albums-outline",
+        "name": "Slides",
+        "redirecTo": "/slides"
+    },
+    {
+        "icon": "cog-outline",
+        "name": "Tabs",
+        "redirecTo": "/tabs"
+    },
+    {
+        "icon": "pricetag-outline",
+        "name": "Toasts",
+        "redirecTo": "/toasts"
+    }
+
+]
